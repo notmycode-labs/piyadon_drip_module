@@ -18,7 +18,14 @@ If your name is "Piyadon" and you're mad at us for using this name, please take 
 
    We’re all about collaboration and making things better together. ❤️
 
-3. **Final Note**
+3. **Important Note on Communication**
+   Please do not attempt to contact our team members privately on social media regarding this issue. We prioritize project-related feedback through the recommended channels:
+   - **GitHub Issues**
+   - **Pull Requests**
+
+   Messages sent via private channels will not be read unless they are genuinely important or urgent. Stick to the official communication methods for the best response. Thank you for understanding!
+
+4. **Final Note**
    This project is meant for fun and learning. There’s no intention to harm or upset anyone. If you’re still upset after reading this, let’s work together to find a solution!
 
 Thanks for understanding, and we hope you enjoy the drippy goodness of this kernel module! 😊
